@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+뻘짓만 하는 잉여인간입니다.
+프로그래밍 초보입니다.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+-(추가예정)-
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ahnshhyun@naver.com]
